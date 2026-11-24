@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Markets",
+  "description": "Real-time stock market dashboard visualizing live price trends, portfolio performance, and technical analysis indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
